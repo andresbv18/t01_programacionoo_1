@@ -8,7 +8,7 @@ public class deber1 {
 		// TODO Auto-generated method stub
 		int n1;
 		int b1=100;
-		int b2=75;
+		int b2=70;
 		int b3=50;
 		Scanner lector=new Scanner(System.in);
 		System.out.println("Ingrese el valor de su sueldo: ");
