@@ -13,7 +13,7 @@ public class practica {
 		n1=lector.nextInt();
 	
 		if(n1<300) {
-			System.out.println("su bonificacion es: "+B);
+			System.out.println("su bonificacion es: "+B+n1);
 	}else{System.out.println("Su bonificacion es: 0");
 
 
