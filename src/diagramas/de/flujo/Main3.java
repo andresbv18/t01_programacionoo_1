@@ -9,9 +9,9 @@ public class Main3 {
 		
 		
 		 for(int i=7;i<=12;i=i+7) {
-				for(int j=0;j<12+1;j=j+1) {
-					 System.out.println("+i+"*"+j+"="+i*j);
+				for(int j=0;j<12+1;j=j+1) 
+					 System.out.println(""+i+"*"+j+"="+i*j);
 				}
 	}
-	}}
+	}
 
