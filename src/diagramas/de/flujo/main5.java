@@ -6,16 +6,14 @@ public class main5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int num;
-		Scanner entrada = new Scanner(System.in);
-		System.out.print("Ingrese un numero: ");
-		num = entrada.nextInt();
-
-		for (int i = 0; i < j; i++) {
-			for (int j =0; j < num ; j++) {
+		System.out.print("Ingrese el numero de filas:");
+		Scanner teclado = new Scanner(System.in);
+		int n = teclado.nextInt();
+		for (int fila = 1; fila <= n; fila++) {
+			for (int ast = n; ast >= fila; ast--) {
 				System.out.print("*");
 			}
-			System.out.println("");
+			System.out.println();//Salto de linea 
 	}
 
 	}
