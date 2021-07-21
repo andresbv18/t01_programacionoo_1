@@ -10,7 +10,7 @@ public class MainTiposDeDatos {
 		long CantiadadMundo=1000000000;
 		float Sueldo = 1000.56f;
 		double SaldoBanco=100000.59;
-		char OpcionMenu;
+		char OpcionMenu= 'a';
 		int Año=3;
 		boolean Casado=true;
 		
