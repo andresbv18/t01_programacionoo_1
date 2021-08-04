@@ -36,7 +36,7 @@ public class MainDeberVectoresMatrices {
 		Z[11] = 12;
 		// 6.Declarar un vector de Y(10) y asinar a todas sus possiciciones valores que
 		// inician desde 1 y son secuenciales
-		int Y[] = new int[12];
+		int Y[] = new int[10];
 		Y[0] = 1;
 		Y[1] = 3;
 		Y[2] = 5;
