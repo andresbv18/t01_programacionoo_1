@@ -20,7 +20,7 @@ public class MainVector2 {
 				n1 = entrada.nextInt();
 				
 				
-				for (int i = 0; i < 3; i++) {
+				for (int i = 0; i < X[n1]; i++) {
 					Scanner entrada1 = new Scanner(System.in);
 					System.out.println("Ingrese el valor de la posicion :" + i);
 
