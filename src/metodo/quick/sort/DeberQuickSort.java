@@ -34,7 +34,7 @@ public class DeberQuickSort {
 			 System.out.println("\nOrdenamiento de java");
 			 System.out.println("El vector antes de ordenar"+Arrays.toString(X));
 			 Arrays.sort(X);
-			 System.out.println("El vector antes de ordenar"+Arrays.toString(X));
+			 System.out.println("El vector despues de ordenar"+Arrays.toString(X));
 			}
 
 			 public static void quicksort(int[] vector, int izquierda, int derecha) {
