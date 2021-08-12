@@ -11,7 +11,8 @@ public class Matriculacion {
 		// Si todo esta bn
 		// DEberia mandar a imprimir
 		Impresora impresion1 = new Impresora();// Instanciar la clase
-		impresion1.imprimir("Matricualcion exitosa #123456", 12);
+		int numreroImpresion=impresion1.imprimir("Matricualcion exitosa #123456", 12);
+		System.out.print(+numreroImpresion);
 	}
 
 }
