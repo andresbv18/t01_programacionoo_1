@@ -1,7 +1,7 @@
 //1_Declaracion de paquete
 package trabajo.en.grupo;
 
-//2_Declaracion de importacion
+//2_Declaracion de importacione
 //3_Declaracuon de comentarios 
 //4_Declaracion de clasde
 public class GamaTelefonos {

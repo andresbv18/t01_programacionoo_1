@@ -4,7 +4,7 @@ public class CaracteristicasCompra {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// Instanciar la clase
+		// Instanciar la clasee
 		// Validar stock
 
 		GamaTelefonos celular1 = new GamaTelefonos();

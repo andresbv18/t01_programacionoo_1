@@ -2,7 +2,7 @@
 package trabajo.en.grupo;
 
 //2_Declaracion de la importacion
-//3_Declaracion de comentarios
+//3_Declaracion de comentariose
 //4_Declaracion de la clasw
 public class Consecionaria {
 	// 5_Constantes
