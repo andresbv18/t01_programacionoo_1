@@ -4,7 +4,9 @@ public class CaracteristicaAutos {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Instanciar la clase
-	 // Instanciar la clase
+		//valiar stock
+		
+
 	 
     Consecionaria ficha1 = new Consecionaria();
     ficha1.imprimir("Ferrari", "458", "Rojo", 2020, "11,7 L/100 km", 2);

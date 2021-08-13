@@ -1,7 +1,12 @@
+//1_Declaracion de paquete
 package trabajo.en.grupo;
-
+//2_Declaracion de importacion
+//3_Declaracuon de comentarios 
+//4_Declaracion de clasde
 public class GamaTelefonos {
-	//2.Atributos
+	//Atributos
+	//5_Declaracion de constantes
+	//6_Variables
 	 
     String Marca;
     String Color;
@@ -11,7 +16,10 @@ public class GamaTelefonos {
     String Almacenamiento;
     String Ram;
     String Procesador;
- 
+    //7_Constructor
+ public GamaTelefonos() {
+}
+ //8_Metodos
     public void imprimir(String Marca, String Modelo, String Color, int imei, String Camara, String Almacenamiento,
             String Ram, String Procesador) {
         System.out.println("*******************************************************************************************************************");
