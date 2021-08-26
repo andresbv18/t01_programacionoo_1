@@ -1,5 +1,5 @@
 package ejercicios.error.git;
 
-public class MainToken {
+public class MainToken {//Taller
 
 }
