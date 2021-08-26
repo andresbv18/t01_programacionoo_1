@@ -24,7 +24,7 @@ public class Empleado implements Comparable<Empleado> {
 	}
 
 	public int getEdad() {
-		return edad;
+		return edad;//f
 	}
 
 	public void setEdad(int edad) {
