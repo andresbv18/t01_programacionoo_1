@@ -4,15 +4,20 @@ public class MainEstudiante {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Estudiante estudiante1 = new Estudiante();
+		Estudiante estudiante1 = new Estudiante();//Instanciando
 		estudiante1.apellido = "Perez";
-		estudiante1.Nombre = "Juan";
+		estudiante1.Nombre = "Juan";// Setear
 		estudiante1.edad = 32;
 		estudiante1.cedula = "01758030";
 		estudiante1.genero = "Masculino";
+		
+		System.out.println("Valor:"+estudiante1.apellido);
+		
 		estudiante1.comer();
 		estudiante1.estudiar();
 		estudiante1.matricularse();
+		
+		
 		System.out.println("segunda INSTANCIA");
 
 		Estudiante estudiante2 = new Estudiante();

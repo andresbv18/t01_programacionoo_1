@@ -1,6 +1,6 @@
 package t01_programacionoo_1;
 
-public class Estudiante {
+public class Estudiante extends persona {
 	//PROPIEDADES
 	String Nombre;
 	String apellido;
@@ -25,4 +25,7 @@ public class Estudiante {
 		// verificar pago
 		//verificar si paso el semestre
 		// imprimir un voucher
-}}
+}
+	
+
+  }
