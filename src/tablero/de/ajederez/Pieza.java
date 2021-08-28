@@ -1,6 +1,6 @@
 package tablero.de.ajederez;
 
-public class Pieza {
+public abstract class Pieza {
 	public String color;
 	public String figura;
 	public String getColor() {
