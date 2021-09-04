@@ -29,12 +29,7 @@ public class MainTallerMatrices {
 				A[fila][columna] = n;
 			}
 		}
-		for (int fila = 0; fila < longitudfila; fila++) {
-			for (int columna = 0; columna < longitudcolumna; columna++) {
-
-				System.out.print( A[fila][columna]+" ");
-			}
-			System.out.println();
+		
 		}
 	}
 }
