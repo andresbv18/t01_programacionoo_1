@@ -46,6 +46,7 @@ public class Main {
 
 				boolean resultado = frase.contains(palabra);
 				System.out.print("Contiene la palbra" + resultado);
+				break;
 
 			case 3:
 				return;
